@@ -1,0 +1,2 @@
+# WheatGrainDetection
+基于YOLOv8n的单株小麦穗粒数检测
